@@ -54,7 +54,7 @@ Front-end angular consumindo api java-spring-boot Back-end
    ## github pages :
   &nbsp;
   :point_right:
-  [acessar](https://ronaldofagundes.github.io/digitalBanc/) 
+  [acessar](https://ronaldofagundes.github.io) 
 
 
   &nbsp; 
